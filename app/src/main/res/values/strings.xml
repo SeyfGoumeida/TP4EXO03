@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP4EXO03</string>
+    <string name="add_task">Write a new task</string>
+    <string name="new_task"> </string>
+    <string name="validate">Validate </string>
+    <string name="add">ADD</string>
+    <string name="date">Selected date :</string>
+
+
+</resources>
